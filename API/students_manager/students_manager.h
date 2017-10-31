@@ -6,7 +6,7 @@
 #ifndef INC_30_10_CLASS_ALT_STUDENTS_MANAGER_H
 #define INC_30_10_CLASS_ALT_STUDENTS_MANAGER_H
 
-#include "double_linked_lists.h"
+#include "../double_linked_lists/double_linked_lists.h"
 // STRUCTS
 
 // PROTOS

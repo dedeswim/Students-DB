@@ -6,13 +6,13 @@
 
 // MACROS
 #define MAX_NAME 16
-#define MAX_STRING 32 + 2
+#define MAX_STRING (32 + 2)
 
 // INCLUDES
 #include <stdio.h>
 #include <stdlib.h>
 #include "students_manager.h"
-#include "hash_tables.h"
+#include "../hash_table/hash_tables.h"
 
 
 // GLOBAL VARS

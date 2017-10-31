@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include "students_manager.h"
+
+#include "API/students_manager/students_manager.h"
 
 int main() {
     importStudents("../res/students.txt");
